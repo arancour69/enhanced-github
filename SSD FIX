@@ -1,0 +1,88 @@
+.github
+	
+Create FUNDING.yml
+6 years ago
+icons
+	
+Update logo and rename extension as per Github guidelines
+7 years ago
+images
+	
+fix(domUtil.js): fix #87
+4 years ago
+screenshots
+	
+chore: Updated screenshots in README
+last year
+src
+	
+fix: Update selector path for filesize and download link
+last year
+test
+	
+test(code): setup test environment, actual tests need to be written
+6 years ago
+.gitignore
+	
+Add .vscode to gitignore
+3 years ago
+.prettierrc
+	
+replace gulp with webpack, add prettier, eslint, improve build process
+6 years ago
+.travis.yml
+	
+fix(node.js): Use LTS Node.js for future support
+3 years ago
+CHANGELOG.md
+	
+refactor: redesigned options page
+last year
+LICENSE
+	
+fix: Update selector path for filesize and download link
+last year
+README.md
+	
+chore: Updated screenshots in README
+last year
+eslint.config.js
+	
+fix: Update selector path for filesize and download link
+last year
+jest.config.js
+	
+test(code): setup test environment, actual tests need to be written
+6 years ago
+manifest.json
+	
+refactor: redesigned options page
+last year
+options.html
+	
+refactor: redesigned options page
+last year
+options.js
+	
+refactor: redesigned options page
+last year
+package.json
+	
+6.1.0
+last year
+popup.html
+	
+refcator(extension): support new GitHub Design
+5 years ago
+popup.js
+	
+feat(extension): support Firefox
+5 years ago
+webpack.config.js
+	
+fix: Update selector path for filesize and download link
+last year
+yarn.lock
+	
+fix: Update selector path for filesize and download link
+last year
